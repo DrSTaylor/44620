@@ -1,0 +1,12 @@
+#One of the most powerful aspects of the Python programming language is its rich set of powerful data structures that are provided as part of the standard library.  In this module you will be introduced to several of these data structures, including their performance characteristics and how to use them.  Additionally you will apply the skills you practiced in the last module to obtain, complete, and submit assignments using Git.  When working with data gathered from the internet, we will use these data structures to organize and operate on the data to turn it into information.
+
+Read and work through the exercises in the following Python Notebooks. 
+
+You must first join the Northwest GitHub Organization as described in Module 1. 
+These lecture notebooks have the information you need to be successful on the project. 
+Work through these BEFORE asking questions. 
+Lecture Notebooks (Required)
+
+https://github.com/nwmostate/csis-dspython/blob/master/python_basic_structures.ipynbLinks to an external site.
+https://github.com/nwmostate/csis-dspython/blob/master/python_functional.ipynbLinks to an external site.
+https://github.com/nwmostate/csis-dspython/blob/master/python_advanced.ipynbLinks to an external site. (Focus on the Comprehensions sections)
