@@ -1,0 +1,16 @@
+##Visualizations are an incredibly powerful tool in a Data Analyst's tool belt.  We use visualizations to condense information and make incomprehensible data tell a story to an audience.  Sometimes, that audience is a boss or stakeholder who wants a high level (non-technical) view of the information as it stands.  At times we are our own audience, using visualizations to explore data and find patterns we might not see directly in numerical or text data.  Whatever the purpose, the visualization must be appropriate to the audience, and tell the story that the data is trying to convey in an honest, easily digestible form.
+
+While exceptionally high quality visualization tools like D3.js exist, and it is possible to embed D3 visualizations in a Jupyter NotebookLinks to an external site., we will focus on using a native Python tool to create both exploratory and high quality "finished product" visualizations for our data.
+
+There is no "one size fits all" visualization for all data; in this module you will be introduced to matplotlib, practice some basic visualizations, and be exposed to documentation and tutorials that can help you create most any visualization you may need.
+
+Read the following early in the week to help you complete your assignments.
+
+datavis_basics.pdf Download datavis_basics.pdf 
+Read and listen to the online lecture material on the following topics. 
+
+Read the Matplotlib Usage GuideLinks to an external site. (stop at "Backends") and execute the sample code in a Jupyter Notebook.  If you are missing any modules, make sure you install them!
+Read the Pyplot tutorialLinks to an external site. and work through the examples in a Jupyter Notebook
+Read and work through the Lifecycle of a PlotLinks to an external site.
+Be aware of the list of Sample Plots in Matplotlib (https://matplotlib.org/stable/gallery/indexLinks to an external site.) these can be helpful when generating visualizations or drawing images you have not in the past.
+Read how to Manipulate the DOM in a Jupyter NotebookLinks to an external site. to embed visualizations using D3.js
